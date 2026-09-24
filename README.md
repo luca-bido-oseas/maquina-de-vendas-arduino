@@ -1,7 +1,10 @@
 # Máquina de Vendas Automática (Protótipo)
 
+
 Protótipo funcional de máquina de vendas automática desenvolvido com **Arduino** e programado em **C**, simulando a seleção de produtos e o acionamento do mecanismo de liberação.
 
+![Circuito da máquina de vendas](foto-circuito.jpeg)
+![Protótipo da máquina de vendas](foto-prototipo.jpeg)
 
 ## Funcionalidades
 - Seleção de produtos por botões
